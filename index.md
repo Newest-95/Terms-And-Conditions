@@ -1,5 +1,3 @@
-# Terms and Conditions
-
 App Name: Apna Setu
 Effective Date: May 9, 2026
 Last Updated: May 9, 2026
